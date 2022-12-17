@@ -3,3 +3,4 @@ silabus rekayasa perangkat lunak kelas 5:
 -framework bootstrap
 -framework codeigniter
 -DBMS mysql
+-gatau gabut
