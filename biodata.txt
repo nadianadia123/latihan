@@ -1,0 +1,3 @@
+nama : nadia
+npm : 20105111017
+alamat : beureunuen
